@@ -16,7 +16,7 @@ more FANG than FTEC
 
 SKYY
 https://finance.yahoo.com/quote/SKYY
-Cloud computing
+Cloud computing. to be compare to CLOU
 
 SHY
 https://finance.yahoo.com/quote/SHY
