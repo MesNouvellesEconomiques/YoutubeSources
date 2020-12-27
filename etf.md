@@ -344,3 +344,8 @@ PBW More diversify more expense ratio
 PBD
 https://finance.yahoo.com/quote/PBD
 Renew energy WORLD
+
+SPAK
+https://finance.yahoo.com/quote/SPAK
+SPAC ETF....passif 80% target in this ETF are SPAC after! SPAC integration. 20% are looking SPAC..... you may loose hype :(
+SPCX is another SPAC ETF. Active (ER 1%) more active. They buy early SPAC and sell quick. Should capture more hype...

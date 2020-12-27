@@ -187,7 +187,6 @@
 {"uri": "https://www.reuters.com/companies/MAA", "date": "20201226", "tags": ["moves"]},
 {"uri": "https://www.foxnews.com/politics/san-francisco-tax-revenue-plunge-resident-exodus?cmpid=prn_newsstand", "date": "20201226", "tags": ["moves"]},
 {"uri": "https://www.wsj.com/articles/new-york-state-lawmakers-weigh-tax-increase-on-wealthy-11608124891", "date": "20201226", "tags": ["moves"]},
-
 {"uri": "https://www.businessinsider.com/covid-19-stimulus-deal-single-word-change-fed-lending-2020-12", "date": "20201227", "tags": ["moves"]},
 {"uri": "https://www.seattletimes.com/business/tucked-into-congress-massive-stimulus-bill-tens-of-billions-in-special-interest-tax-giveaways/", "date": "20201227", "tags": ["moves"]},
 {"uri": "https://blog.robinhood.com/news/2020/12/21/robinhood-lowers-margin-interest-rate", "date": "20201227", "tags": ["moves"]},
@@ -200,5 +199,18 @@
 {"uri": "https://www.forbes.com/sites/adamminsky/2020/12/23/biden-says-he-is-unlikely-to-cancel-50000-in-student-loan-debt-by-executive-order/?sh=2fb30fb215b6", "date": "20201227", "tags": ["gov_spending","us_spend"]},
 {"uri": "https://news.slashdot.org/story/20/12/24/204238/nyc-is-paying-2-million-for-anti-plagiarism-software-after-firing-teachers", "date": "20201227", "tags": ["cities","gov_spending","etf","robot"]},
 {"uri": "https://www.axios.com/us-trade-deficits-continue-to-grow-ba953cd0-457f-48ef-84f3-f4f996353da0.html", "date": "20201227", "tags": ["gov_spending","money_trash"]},
-{"uri": "https://www.bloomberg.com/news/articles/2020-12-22/deutsche-bank-considers-raising-traders-bonuses-by-about-10", "date": "20201227", "tags": ["bank","story"]}
+{"uri": "https://www.bloomberg.com/news/articles/2020-12-22/deutsche-bank-considers-raising-traders-bonuses-by-about-10", "date": "20201227", "tags": ["bank","story"]},
+{"uri": "https://www.renaissancecapital.com/IPO-Investing/US-IPO-ETF", "date": "20201227", "tags": ["etf","ipo"]},
+{"uri": "https://markets.businessinsider.com/news/stocks/xl-fleet-stock-price-spac-electric-vehicle-public-trading-ford-2020-12-1029917599", "date": "20201227", "tags": ["etf","etf","spac"]},
+{"uri": "https://www.nasdaq.com/solutions/spac", "date": "20201227", "tags": ["etf","spac"]},
+{"uri": "https://www.nytimes.com/2020/12/19/business/dealbook/deals-mergers-acquisitions-2020.html", "date": "20201227", "tags": ["etf","spac"]},
+{"uri": "https://www.nasdaq.com/articles/the-spac-trend-now-has-its-own-etf-2020-10-02", "date": "20201227", "tags": ["etf","spac"]},
+{"uri": "https://etfdb.com/news/2020/12/16/tuttle-launches-spac-new-issue-etf-spcx/", "date": "20201227", "tags": ["etf","spac"]},
+{"uri": "https://www.sfchronicle.com/business/article/IPOs-are-hot-in-Silicon-Valley-SPACs-are-even-15826265.php", "date": "20201227", "tags": ["etf","spac"]},
+{"uri": "https://finance.yahoo.com/amphtml/news/china-retailer-soars-400-second-191820663.html", "date": "20201227", "tags": ["etf","spac"]},
+{"uri": "https://www.coindesk.com/ruffer-confirms-744m-bitcoin-investment", "date": "20201227", "tags": ["crypto"]},
+{"uri": "https://www.etftrends.com/alternatives-channel/institutional-investors-piling-into-bitcoin/", "date": "20201227", "tags": ["crypto"]},
+{"uri": "https://www.businessinsider.com/bitcoin-hits-record-high-on-christmas-day-crytocurrency-2020-12", "date": "20201227", "tags": ["crypto"]},
+{"uri": "https://www.marketwatch.com/story/the-u-s-dollar-is-getting-crushed-thank-the-fed-11608229441", "date": "20201227", "tags": ["gov_spending","money_trash"]}
+
 ]
