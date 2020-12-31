@@ -211,6 +211,24 @@
 {"uri": "https://www.coindesk.com/ruffer-confirms-744m-bitcoin-investment", "date": "20201227", "tags": ["crypto"]},
 {"uri": "https://www.etftrends.com/alternatives-channel/institutional-investors-piling-into-bitcoin/", "date": "20201227", "tags": ["crypto"]},
 {"uri": "https://www.businessinsider.com/bitcoin-hits-record-high-on-christmas-day-crytocurrency-2020-12", "date": "20201227", "tags": ["crypto"]},
-{"uri": "https://www.marketwatch.com/story/the-u-s-dollar-is-getting-crushed-thank-the-fed-11608229441", "date": "20201227", "tags": ["gov_spending","money_trash"]}
-
+{"uri": "https://www.marketwatch.com/story/the-u-s-dollar-is-getting-crushed-thank-the-fed-11608229441", "date": "20201227", "tags": ["gov_spending","money_trash"]},
+{"uri": "https://www.clubic.com/antivirus-securite-informatique/cryptage-cryptographie/crypto-monnaie/actualite-25784-le-plus-important-gestionnaire-d-actifs-au-monde-s-interesse-aux-crypto-monnaies.html", "date": "20201228", "tags": ["crypto"]},
+{"uri": "https://www.clubic.com/mag/jeux-video/actualite-25759-avec-la-pandemie-de-covid-19-le-marche-du-jeu-video-rapporte-plus-que-le-cinema-et-les-sports-reunis.html", "date": "20201228", "tags": ["etf","game"]},
+{"uri": "https://www.etf.com/GAMR", "date": "20201228", "tags": ["etf","game"]},
+{"uri": "https://www.businessinsider.com/air-force-elephant-walk-with-f35s-f16s-kc135s-in-alaska-2020-12", "date": "20201228", "tags": ["etf","war"]},
+{"uri": "https://www.npr.org/2020/12/28/950802271/house-rejects-trumps-defense-bill-veto-in-highly-unusual-vote", "date": "20201228", "tags": ["etf","war","gov_spending"]},
+{"uri": "https://www.fool.com/investing/2020/12/28/john-deere-will-dominate-the-farming-sector-in-202/", "date": "20201228", "tags": ["etf","food"]},
+{"uri": "https://www.vaneck.com/etf/equity/moo/overview/", "date": "20201228", "tags": ["etf","food"]},
+{"uri": "https://www.etftrends.com/innovative-etfs-channel/u-s-stock-etfs-strengthen-on-covid-19-stimulus-bill/", "date": "20201228", "tags": ["gov_spending"]},
+{"uri": "https://www.fool.com/investing/2020/12/28/tesla-is-going-to-india-what-it-means/", "date": "20201228", "tags": ["tesla"]},
+{"uri": "https://www.businessinsider.com/house-passes-bill-to-increase-600-stimulus-checks-to-2000-2020-12", "date": "20201228", "tags": ["gov_spending"]},
+{"uri": "https://www.businessinsider.com/finland-relocation-remote-work-tech-90-day-finn-program-2020-12", "date": "20201228", "tags": ["moves"]},
+{"uri": "https://www.cnbc.com/2020/12/22/ark-innovation-becomes-largest-actively-managed-etf-as-innovation-hits-escape-velocit.html", "date": "20201229", "tags": ["etf"]},
+{"uri": "https://www.bloomberg.com/news/articles/2020-12-14/jpmorgan-offers-you-only-live-once-trade-to-bet-on-ark-etfs", "date": "20201229", "tags": ["etf"]},
+{"uri": "https://ark-funds.com/", "date": "20201229", "tags": ["etf"]},
+{"uri": "https://www.barrons.com/articles/ark-etfs-are-more-popular-than-ever-what-it-means-for-investors-51608850491", "date": "20201229", "tags": ["etf"]},
+{"uri": "https://www.bbc.com/news/uk-42864685", "date": "20201231", "tags": ["money_trash","inflation"]},
+{"uri": "https://www.delish.com/food-news/a20512863/toblerone-chocolate-shape-change/", "date": "20201231", "tags": ["money_trash","inflation"]},
+{"uri": "https://www.bbc.com/news/uk-44910195", "date": "20201231", "tags": ["money_trash","inflation"]},
+{"uri": "https://www.youtube.com/watch?v=yCaR7RBiS8A", "date": "20201231", "tags": ["money_trash","inflation"]}
 ]
