@@ -1,12 +1,11 @@
 # ETF
 To check overlap: https://www.etfrc.com/funds/overlap.php
+[
+    {"name":"FTEC","description":"QQQ track 100 top NASDAQ (57% overlap since NASDAQ not only tech).VGT is another alternative (99% overlap).XLK is another alternative (85% overlap)","tags":"tech"}
+]
 
-FTEC
-https://finance.yahoo.com/quote/FTEC
-Technology 
-QQQ track 100 top NASDAQ (57% overlap since NASDAQ not only tech)
-VGT is another alternative (99% overlap)
-XLK is another alternative (85% overlap)
+
+
 
 PNQI
 https://finance.yahoo.com/quote/PNQI
@@ -83,6 +82,7 @@ Track China BMI index and favor big CAP
 FXI is another alternative to track China (50% overlap) but GXC is more diverse (5 X more holding). Also favor Big Cap and focus in finanacial stuff (55%)
 HAO or ECNS can be worth having a look to follow small cap.
 In addition to FXI there is another alternative: PGJ which is more focus on technological company.
+TODO compare with CHIL
 
 PGJ
 https://finance.yahoo.com/quote/PGJ
@@ -129,7 +129,10 @@ The investment seeks to provide investment results that correspond generally to 
 
 GAMR
 https://finance.yahoo.com/quote/GAMR
-Track gaming company
+Track gaming company. 
+TODO compare ESPO. GAMR is more expensive(0.75 vs 0.55) but has more holding(100 vs 25). ESPO also include hardware thus stock like nvidia
+TODO compare with NERD. NERD ETF includes companies that organize tournaments one of its investment sub-themes
+TODO compare with HERO
 
 IPAY
 https://finance.yahoo.com/quote/IPAY
@@ -194,6 +197,7 @@ Track platinum price
 MOO
 https://finance.yahoo.com/quote/MOO
 Track agriculture and food company
+TODO diff with DBA ?
 
 SMH
 https://finance.yahoo.com/quote/SMH
@@ -228,6 +232,7 @@ EPI is an alternative (65% overlap)
 MTUM
 https://finance.yahoo.com/quote/MTUM
 Track momentum company
+TODO compare with MOM
 
 VNM
 https://finance.yahoo.com/quote/VNM
@@ -349,3 +354,7 @@ SPAK
 https://finance.yahoo.com/quote/SPAK
 SPAC ETF....passif 80% target in this ETF are SPAC after! SPAC integration. 20% are looking SPAC..... you may loose hype :(
 SPCX is another SPAC ETF. Active (ER 1%) more active. They buy early SPAC and sell quick. Should capture more hype...
+
+BUG
+https://finance.yahoo.com/quote/BUG
+TODO compare CIBR (CIBR seems bigger asset under Mgt and older 4 year older than BUG). https://www.etf.com/sections/features-and-news/cybersecurity-etfs-heating
