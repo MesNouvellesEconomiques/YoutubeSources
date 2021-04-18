@@ -92,10 +92,13 @@ Track money transfer company
 Tracker on philipine country
 
 # REET
-Track REIT WORLD
+Track REIT WORLD (but still 70% of it is USA so i add a little extra VNQI to have more int. exposure in my portfolio)
 
 # VNQ
 REIT Focus USA
+
+# VNQI
+Ex US REIT ETF
 
 # NOBL
 companies that have increased their dividend for 25 years or more. Dividend ETF. Stable but low yield 
@@ -245,5 +248,7 @@ Renew energy WORLD
 SPAC ETF....passif 80% target in this ETF are SPAC after! SPAC integration. 20% are looking SPAC..... you may loose hype :( SPCX is another SPAC ETF. Active (ER 1%) more active. They buy early SPAC and sell quick. Should capture more hype...
 
 # BUG
-TODO compare CIBR (CIBR seems bigger asset under Mgt and older 4 year older than BUG). https://www.etf.com/sections/features-and-news/cybersecurity-etfs-heating
+TODO compare CIBR (CIBR seems bigger asset under Mgt and older 4 year older than BUG). https://www.etf.com/sections/features-and-news/cybersecurity-etfs-heating IHAK and HACK ? BUG is international. IHAK int too. CIBR is US only and track NASDAQ company
 
+# Vertical farming
+No ETF as of April 2021. PLC (NYSE:PNR), which is a reputable company that supplies water management equipment to vertical farming facilities, among others. There's also Koninklijke Philips NV (NYSE:PHG), which is a Dutch company with a penchant for LED lighting. Danaher Corporation (NYSE:DHR) makes filtration equipment and also helps to supply vertical farms. Why not Bayer which seems to start working on it 2021. grwg hydroponic. . SMG hydro and fertilizer too

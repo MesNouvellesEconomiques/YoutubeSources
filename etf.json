@@ -30,7 +30,7 @@
     {"name":"SQQQ","description":"The investment seeks daily investment results, before fees and expenses, that correspond to three times the inverse (-3x) of the daily performance of the NASDAQ-100","tags":["inverse","NASDAQ"]},
     {"name":"IBB","description":"Track biotech company","tags":["biotech"]},
     {"name":"BIL","description":"The investment seeks to provide investment results that correspond generally to the price and yield performance of the Bloomberg Barclays 1-3 Month U.S. Treasury Bill Index","tags":["bond","usa"]},
-    {"name":"GAMR","description":"Track gaming company. TODO compare ESPO. GAMR is more expensive(0.75 vs 0.55) but has more holding(100 vs 25). ESPO also include hardware thus stock like nvidia. TODO compare with NERD. NERD ETF includes companies that organize tournaments one of its investment sub-themes. TODO compare with HERO","tags":["leisure"]},
+    {"name":"GAMR","description":"Track gaming company. TODO compare ESPO. GAMR is more expensive(0.75 vs 0.55) but has more holding(100 vs 25). ESPO also include hardware thus stock like nvidia. TODO compare with NERD. NERD ETF includes companies that organize tournaments one of its investment sub-themes. TODO compare with HERO >> HERO very similar to ESPO https://gamingstreet.com/these-etfs-could-be-your-entry-into-the-gaming-market/","tags":["leisure"]},
     {"name":"IPAY","description":"Track money transfer company. Very similar of FINX","tags":["financial","tech"]},
     {"name":"ARKF","description":"Fintech ETF from ARK","tags":["financial","tech"]},
     {"name":"TPAY","description":"Track money transfer company. Focus on credit card. Too focus for me","tags":["financial","tech"]},
@@ -90,4 +90,6 @@
     {"name":"DRIV","description":"autonomous driving, new gen car. Better than IDRV but don t remember why","tags":["green"]},
     {"name":"SPAK","description":"SPAC ETF....passif 80% target in this ETF are SPAC after! SPAC integration. 20% are looking SPAC..... you may loose hype :( SPCX is another SPAC ETF. Active (ER 1%) more active. They buy early SPAC and sell quick. Should capture more hype...","tags":["spac"]},
     {"name":"BUG","description":"TODO compare CIBR (CIBR seems bigger asset under Mgt and older 4 year older than BUG). https://www.etf.com/sections/features-and-news/cybersecurity-etfs-heating","tags":["cybersec"]}
+
+
 ]
